@@ -1,0 +1,11 @@
+C:\Users\MINEDUCYT\Desktop\Guia 1\GSMC.Temperatura\GSMC.Temperatura\bin\Debug\net6.0\GSMC.Temperatura.deps.json
+C:\Users\MINEDUCYT\Desktop\Guia 1\GSMC.Temperatura\GSMC.Temperatura\bin\Debug\net6.0\GSMC.Temperatura.dll
+C:\Users\MINEDUCYT\Desktop\Guia 1\GSMC.Temperatura\GSMC.Temperatura\bin\Debug\net6.0\GSMC.Temperatura.pdb
+C:\Users\MINEDUCYT\Desktop\Guia 1\GSMC.Temperatura\GSMC.Temperatura\obj\Debug\net6.0\GSMC.Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\Guia 1\GSMC.Temperatura\GSMC.Temperatura\obj\Debug\net6.0\GSMC.Temperatura.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\Guia 1\GSMC.Temperatura\GSMC.Temperatura\obj\Debug\net6.0\GSMC.Temperatura.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\Guia 1\GSMC.Temperatura\GSMC.Temperatura\obj\Debug\net6.0\GSMC.Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Guia 1\GSMC.Temperatura\GSMC.Temperatura\obj\Debug\net6.0\GSMC.Temperatura.dll
+C:\Users\MINEDUCYT\Desktop\Guia 1\GSMC.Temperatura\GSMC.Temperatura\obj\Debug\net6.0\refint\GSMC.Temperatura.dll
+C:\Users\MINEDUCYT\Desktop\Guia 1\GSMC.Temperatura\GSMC.Temperatura\obj\Debug\net6.0\GSMC.Temperatura.pdb
+C:\Users\MINEDUCYT\Desktop\Guia 1\GSMC.Temperatura\GSMC.Temperatura\obj\Debug\net6.0\ref\GSMC.Temperatura.dll
