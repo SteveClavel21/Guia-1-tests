@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSMC.Temperatura", "GSMC.Temperatura\GSMC.Temperatura.csproj", "{89984838-D44A-40A3-A71F-68C4CEA67E35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GSMC.Temperatura", "GSMC.Temperatura\GSMC.Temperatura.csproj", "{89984838-D44A-40A3-A71F-68C4CEA67E35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSMC.Temperatura.UnitTest.AppMSTest", "GSMC.Temperatura.UnitTest.AppMSTest\GSMC.Temperatura.UnitTest.AppMSTest.csproj", "{0078FCC3-FB7A-4D07-84D8-430948C2A430}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GSMC.Temperatura.UnitTest.AppMSTest", "GSMC.Temperatura.UnitTest.AppMSTest\GSMC.Temperatura.UnitTest.AppMSTest.csproj", "{0078FCC3-FB7A-4D07-84D8-430948C2A430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSMCManipulator", "GSMCManipulator.AppxUnit\GSMCManipulator.csproj", "{B2B8D788-C305-4942-9856-E736A4815851}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSMCManipulator.UnitTest.AppxUnit", "GSMCManipulator.UnitTest.AppxUnit\GSMCManipulator.UnitTest.AppxUnit.csproj", "{877EA958-B76B-4414-AA48-3F1A46827C96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{0078FCC3-FB7A-4D07-84D8-430948C2A430}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0078FCC3-FB7A-4D07-84D8-430948C2A430}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0078FCC3-FB7A-4D07-84D8-430948C2A430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2B8D788-C305-4942-9856-E736A4815851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B8D788-C305-4942-9856-E736A4815851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B8D788-C305-4942-9856-E736A4815851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B8D788-C305-4942-9856-E736A4815851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{877EA958-B76B-4414-AA48-3F1A46827C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877EA958-B76B-4414-AA48-3F1A46827C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877EA958-B76B-4414-AA48-3F1A46827C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877EA958-B76B-4414-AA48-3F1A46827C96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

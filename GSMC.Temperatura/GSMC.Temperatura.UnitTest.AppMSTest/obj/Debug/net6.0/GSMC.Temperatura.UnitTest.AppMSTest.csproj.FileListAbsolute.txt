@@ -104,3 +104,4 @@ C:\Users\MINEDUCYT\Desktop\Guia 1\GSMC.Temperatura\GSMC.Temperatura.UnitTest.App
 C:\Users\MINEDUCYT\Desktop\Guia 1\GSMC.Temperatura\GSMC.Temperatura.UnitTest.AppMSTest\obj\Debug\net6.0\GSMC.Temperatura.UnitTest.AppMSTest.pdb
 C:\Users\MINEDUCYT\Desktop\Guia 1\GSMC.Temperatura\GSMC.Temperatura.UnitTest.AppMSTest\obj\Debug\net6.0\GSMC.Temperatura.UnitTest.AppMSTest.genruntimeconfig.cache
 C:\Users\MINEDUCYT\Desktop\Guia 1\GSMC.Temperatura\GSMC.Temperatura.UnitTest.AppMSTest\obj\Debug\net6.0\ref\GSMC.Temperatura.UnitTest.AppMSTest.dll
+C:\Users\MINEDUCYT\Desktop\Guia 1\GSMC.Temperatura\GSMC.Temperatura.UnitTest.AppMSTest\obj\Debug\net6.0\GSMC.Temperatura.UnitTest.AppMSTest.sourcelink.json

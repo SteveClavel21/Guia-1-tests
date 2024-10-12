@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GSMC.Temperatura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+293e35e204a077f35cc93ba1cece42ec766c4660")]
 [assembly: System.Reflection.AssemblyProductAttribute("GSMC.Temperatura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GSMC.Temperatura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
